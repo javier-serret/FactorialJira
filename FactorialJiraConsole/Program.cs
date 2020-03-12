@@ -6,7 +6,8 @@ namespace FactorialJiraConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(FactorialJira.Class1.Factorial(int.Parse(args[0])));
+            
         }
     }
 }
