@@ -8,6 +8,7 @@ namespace FactorialProjectConsoleTests
         [TestMethod]
         public void TestMethod1()
         {
+            //test
         }
     }
 }
